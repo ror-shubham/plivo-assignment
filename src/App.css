@@ -1,38 +1,69 @@
+html{
+  background: #eaf0f2;
+}
+
 .App {
   text-align: center;
+  margin: 15px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.cards {
+  display: flex;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.birthday_header {
+  background: #ab9eee;
+  text-align: right;
+  padding: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.birthday_card {
+  margin: 10px;
+}
+
+.input_parent {
+  display: flex;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+
+.input_year {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-left: 40px;
+}
+
+.input_year button {
+  height: 40px;
+  width: 120px;
+  margin-top: 30px;
+  background: #2989ec;
   color: white;
+  border: none;
+  border-radius: 3px;
+  outline: none;
 }
 
-.App-link {
-  color: #61dafb;
+.input_year input {
+  margin-top: 10px;
+  padding: 10px;
+  width: 200px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.input_year label {
+  text-align: left;
+}
+
+.invalid {
+  color: red;
+  size: 22px;
+}
+
+.grid_child {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
 }
