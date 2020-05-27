@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plivo-assignment/static/css/main.45b217cd.chunk.css",
+    "main.js": "/plivo-assignment/static/js/main.7b2c40fb.chunk.js",
+    "main.js.map": "/plivo-assignment/static/js/main.7b2c40fb.chunk.js.map",
+    "runtime-main.js": "/plivo-assignment/static/js/runtime-main.f3b7baf8.js",
+    "runtime-main.js.map": "/plivo-assignment/static/js/runtime-main.f3b7baf8.js.map",
+    "static/js/2.fb02b890.chunk.js": "/plivo-assignment/static/js/2.fb02b890.chunk.js",
+    "static/js/2.fb02b890.chunk.js.map": "/plivo-assignment/static/js/2.fb02b890.chunk.js.map",
+    "index.html": "/plivo-assignment/index.html",
+    "precache-manifest.1a534fd5194616ab22c71340596c9f4b.js": "/plivo-assignment/precache-manifest.1a534fd5194616ab22c71340596c9f4b.js",
+    "service-worker.js": "/plivo-assignment/service-worker.js",
+    "static/css/main.45b217cd.chunk.css.map": "/plivo-assignment/static/css/main.45b217cd.chunk.css.map",
+    "static/js/2.fb02b890.chunk.js.LICENSE.txt": "/plivo-assignment/static/js/2.fb02b890.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3b7baf8.js",
+    "static/js/2.fb02b890.chunk.js",
+    "static/css/main.45b217cd.chunk.css",
+    "static/js/main.7b2c40fb.chunk.js"
+  ]
+}
